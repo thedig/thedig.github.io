@@ -16,6 +16,10 @@ body {
 	background: #ffffff
 }*/
 
+p {
+	font-family: "Trebuchet MS",arial,sans-serif;
+}
+
 .container {
 	position: relative;
 }
@@ -88,6 +92,7 @@ h1 {
 h2 {
 	color: #555;
 	margin: 0;
+	margin-left: 15px;
 	font-size: 30px;
 }
 
@@ -110,7 +115,7 @@ h3 {
 }
 
 h4 {
-	font-size: 20px;
+	font-size: 22px;
 	margin-top: 10px;
 }
 
